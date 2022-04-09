@@ -1,0 +1,155 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.btn1{
+    border: 1px solid #f75757;
+    border-radius: 8px;
+}
+.btn1:hover{
+    background-color:#f75757;
+}
+.btn1 a{
+    color: white;
+}
+.hhh:hover{
+    background-color: #f75757;
+
+}
+.icon{
+    margin: 7px;
+}
+.icon1 a{
+    text-decoration: none;
+}
+.bg1{
+   background-image: url(img/pic1.jpg);
+   background-size: cover;
+}
+.b1:hover{
+    background-color:#f75757 ;
+}
+.nav1{
+    padding: 0px 31px;
+    letter-spacing: 14px;
+}
+.social-link ul i{
+    font-size: 24px;
+}
+.middle-section a{
+    text-decoration: none;
+}
+.link i{
+    font-size: 17px;
+}
+.link a{
+    text-decoration: none;
+}
+.jjj i{
+    position: absolute;
+    left: 0px;
+    top: 5px;
+    font-size: 50px;
+    opacity: .4;
+}
+.jjj{
+    position: relative;
+    padding-left: 80px;
+}
+.bg7{
+    background-image: url(img/home-3\ \(1\).jpg);
+    background-size: cover;
+}
+.hero-section1{
+    background-image: url(img/home-1.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.button5 a{
+    border: 1px solid #f75757;
+    background-color: #f75757;
+    padding: 1rem 2.5rem;
+    color: white;
+    border-radius: 50px;
+    text-decoration: none;
+}
+.button5 a:hover{
+    background: #dd0b0b; 
+}
+.button6 a{
+    text-decoration: none;
+}
+.button6 li a:hover{
+    background: #dd0b0b;
+    color: white;
+}
+.nav li a:hover{
+    background-color:#dd0b0b ;
+}
+.box{
+    padding: 0px 15px;
+  
+}
+.box4{
+  
+}
+.box1 i{
+    font-size: 60px;
+    line-height: 60px;
+    color: #f75757;
+}
+.cta{
+    background-image: url(img/home-3.jpg);
+    background-size: cover;
+}
+.box2{
+    margin: 5px;
+}
+.btn9 a{
+    border: 1px solid #f75757;
+    padding: 12px;
+    border: 50px;
+}
+.container-fluid{
+    background-color: #f5f8f9;
+}
+.text-color{
+    color: #f75757;
+    font-size: 40px;
+}
+.box10 i{
+    font-size: 60px;
+    color: #f75757;
+}
+.container-fluid1{
+    background-color: white;
+}
+.cta-block{
+    background: #f5f8f9;
+}
+.section{
+    background-image: url(img/home-5.jpg);
+    background-size: cover;
+    padding: 12px;
+}
+.button10 a{
+    border: 1px solid #f757;
+    padding: 12px;
+    text-decoration: none;
+    border-radius: 50px;
+}
+.button10 :hover{
+    background-color:#f75757 ;
+    color: white;
+}
+.lll{
+    background-image: url(img/lll.jpg);
+    background-size: cover;
+}
+.box0{
+    padding: 0px 49px;
+}
+.sss{
+    background-image: url(img/service.jpg);
+}
